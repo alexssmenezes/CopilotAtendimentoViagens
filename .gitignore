@@ -1,0 +1,26 @@
+
+# Arquivos temporários
+*.tmp
+*.bak
+*.log
+~$*
+
+# Arquivos de sistema
+.DS_Store
+Thumbs.db
+
+# Pastas do sistema
+__MACOSX/
+
+# Arquivos do VS Code
+.vscode/
+
+# Node modules (se usar integração externa)
+node_modules/
+
+# Power Automate local settings (caso usados)
+.env
+*.secrets
+
+# Arquivos zip exportados
+*.zip

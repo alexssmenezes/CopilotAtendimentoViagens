@@ -1,0 +1,1 @@
+Exportação simulada do projeto Copilot Studio para atendimento de viagens.
